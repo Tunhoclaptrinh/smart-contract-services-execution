@@ -27,4 +27,4 @@ import {
 })
 class ServiceModule {}
 
-void bootstrapService({ module: ServiceModule, name: "service" });
+void bootstrapService({ module: ServiceModule, name: "execution", port: 3005 });

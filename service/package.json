@@ -1,5 +1,5 @@
 {
-  "name": "@sc/service",
+  "name": "@sc/execution-service",
   "private": true,
   "version": "0.1.0",
   "scripts": {
